@@ -1,1 +1,3 @@
-hi this is the first file for git
+Hi This is the first file for git
+
+ADDing a new line
